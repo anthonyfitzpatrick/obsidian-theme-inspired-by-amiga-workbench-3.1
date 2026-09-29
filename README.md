@@ -244,3 +244,7 @@ This theme is released under the **MIT Licence**. See [LICENSE](LICENSE) for the
 text. The MIT Licence covers **only the original CSS and documentation in this
 repository**. It does not, and cannot, grant any rights in any third party's trademarks
 or copyrighted works, and confers no rights in anything owned by the parties named above.
+
+## Author
+
+Created by [Anthony Fitzpatrick](https://www.anthonyfitzpatrick.me/) and published by [Wolf 359 Press AB](https://wolf359.press/). See the [product page on wolf359.app](https://wolf359.app/amiga-workbench-31/) for more, and [wolf359.app](https://wolf359.app/) for the other plugins and themes.
